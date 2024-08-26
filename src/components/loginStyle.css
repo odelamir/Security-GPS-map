@@ -1,0 +1,75 @@
+/* loginStyle.css */
+
+.SignUp, .LogIn {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    
+}
+
+.su {
+    width: 400px; /* הוקטן רוחב הכללי של הטופס */
+    padding: 20px;
+    background-color: #f4f4f4;
+    border-radius: 8px;
+    margin-bottom: 300px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
+
+.form {
+  
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.inputs_log_in {
+    margin-top: 10px;
+}
+
+.label {
+    font-weight: bold;
+    margin-bottom: 5px; /* מרווח קטן מתחת לתוויות */
+}
+
+.input {
+    width: 85%; /* הוקטן רוחב השדות */
+    padding: 7px;
+    margin: 10px 0; /* מרווח בין השורות */
+    border: 1px solid #ccc;
+    border-radius: 4px;
+}
+
+.submit {
+    width: 90%;
+    padding: 10px;
+    margin-top: 10px;
+    border: none;
+    border-radius: 4px;
+    background-color: #007bff;
+    color: #fff;
+    cursor: pointer;
+}
+
+.submit:hover {
+    background-color: #0056b3;
+}
+
+h1 {
+    text-align: center;
+}
+
+span {
+    font-size:20px;
+  
+}
+
+a {
+    color: #007bff;
+    text-decoration: none;
+}
+
+a:hover {
+    text-decoration: underline;
+}

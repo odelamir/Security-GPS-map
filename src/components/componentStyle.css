@@ -1,0 +1,48 @@
+/* componentStyle.css */
+
+.content {
+    background-color: #f5f5f5;
+    padding: 30px;
+    margin: 20px auto;
+    max-width: 800px;
+    border: 1px solid #ddd;
+    border-radius: 8px;
+    box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1);
+    direction: rtl;
+    text-align: right; /* Align text to the right */
+}
+
+.main-title {
+    font-size: 2.5rem;
+    font-weight: bold;
+    text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.7);
+    
+    text-align: center;
+    margin-bottom: 20px;
+}
+
+.description-text {
+    font-size: 1.125rem;
+    line-height: 1.8;
+    color: #333;
+    margin-bottom: 20px;
+}
+h2{
+    text-align: center;
+}
+.content-image {
+    max-width: 100%;
+    height: auto;
+    display: block;
+    margin: 20px 0;
+    border-radius: 8px;
+}
+
+.levels {
+    margin-bottom: 20px;
+    padding-left: 20px;
+}
+
+.levels li {
+    margin-bottom: 10px;
+}
