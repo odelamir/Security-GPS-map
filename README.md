@@ -1,4 +1,4 @@
-## Security-GPS-map
+# Security-GPS-map
 
 The current project was developed using React and serves as the client-side component of the project detailed at the following link: 
 
@@ -10,7 +10,7 @@ The current project was developed using React and serves as the client-side comp
 
 ##### [Project book](https://drive.google.com/file/d/1q0O257fhMMjlEKydk6M4gX1ZXdwJTvoX/view?usp=sharing)
 
-## Project Overview
+# Project Overview
 
 The system receives threat inputs from sensors embedded in soldiers' helmets on the battlefield. Threats identified as hostile are marked on a GPS map, along with the exact time the threat was detected. This feature allows soldiers to view enemy positions on the map, including the precise time hostile fire was detected.
 
