@@ -20,6 +20,7 @@ By utilizing this system, soldiers can avoid potential threats, strategically pl
 
 
 A dynamic map that highlights the soldier's location in yellow, while marking the locations of hostile fire detected by sensors in red👇
+
  ![simulation](map.png)
 
 
