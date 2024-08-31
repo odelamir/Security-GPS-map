@@ -34,7 +34,7 @@ Below is the project in progress👇
 
   ![Watch the simulation video](A.gif)
 
-####  👇👇👇
+####             ⬇️⬇️⬇️
   
  ![Watch the simulation video](map_video.gif)
 
