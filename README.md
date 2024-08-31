@@ -33,14 +33,16 @@ A dynamic map that highlights the soldier's location in yellow, while marking th
 Below is the project in progress👇
 
   ![Watch the simulation video](A.gif)
+  
 
-####             ⬇️⬇️⬇️
+  [To view the project on YouTube](https://youtu.be/b7UTdxI-3uE)
+
   
  ![Watch the simulation video](map_video.gif)
 
 
  
-[To view the project on YouTube](https://youtu.be/b7UTdxI-3uE)
+
 
 
 
